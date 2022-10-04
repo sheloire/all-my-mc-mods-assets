@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Sheloire",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/glass",
-		"particle": "block/glass"
+		"0": "every_chile_ever:item/glass",
+		"particle": "every_chile_ever:item/glass"
 	},
 	"elements": [
 		{
