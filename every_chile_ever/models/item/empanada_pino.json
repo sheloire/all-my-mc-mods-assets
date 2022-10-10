@@ -2,7 +2,7 @@
   "loader": "forge:separate-perspective",
   "gui_light": "front",
   "base": {
-    "parent": "every_chile_ever:item/empanada_pino_model"
+    "parent": "every_chile_ever:item3d/empanada_pino_model"
   },
   "textures": {
     "particle": "every_chile_ever:item/empanada"
