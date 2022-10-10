@@ -1,0 +1,15 @@
+{
+  "loader": "forge:separate-perspective",
+  "gui_light": "front",
+  "base": {
+    "parent": "every_chile_ever:block/model_test"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "every_chile_ever:item/poto"
+      }
+    }
+  }
+}
