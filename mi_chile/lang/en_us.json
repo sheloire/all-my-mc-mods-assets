@@ -2,7 +2,9 @@
   "itemGroup.every_chile_ever_tab": "Every Chile Ever",
   "item.every_chile_ever.completo_pelao": "Completo Pelao",
   "tooltip.every_chile_ever.completo_pelao": "¿Por qué no intentas ponerle algo encima?",
-  "item.every_chile_ever.empanada_pino": "Empana de Pino",
+  "item.every_chile_ever.empanada_pino": "Empanada de Pino",
+  "item.every_chile_ever.placed_stick": "Placed stick",
+  "tooltip.minecraft.stick": "Place it!",
 
   "block.every_chile_ever.model_test": "Model Test",
   "tooltip.every_chile_ever.model_test": "Un bloque nunca antes visto..."
